@@ -10,7 +10,7 @@ const Header = ({ handleOpenModalCart }) => {
             <div className="max-w-full md:max-w-[90%] mx-auto px-4">
                 <div className="flex items-center justify-between h-20">
                     <h1 className="text-2xl md:text-4xl font-bold font-urbanist text-gray-800 cursor-pointer">
-                        Redux E-Commerce
+                        E-Commerce
                     </h1>
                     <button
                         type="button"
